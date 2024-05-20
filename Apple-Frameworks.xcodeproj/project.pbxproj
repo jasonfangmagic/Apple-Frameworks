@@ -14,6 +14,7 @@
 		F22BE7782BF2AE4D006E76D9 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22BE7772BF2AE4D006E76D9 /* FrameworkGridView.swift */; };
 		F22BE77A2BF508DA006E76D9 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22BE7792BF508DA006E76D9 /* FrameworkDetailView.swift */; };
 		F28419F32BF6A746008680EF /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28419F22BF6A746008680EF /* AFButton.swift */; };
+		F28419F52BFBEF08008680EF /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F28419F42BFBEF08008680EF /* FrameworkGridViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		F22BE7772BF2AE4D006E76D9 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
 		F22BE7792BF508DA006E76D9 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		F28419F22BF6A746008680EF /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
+		F28419F42BFBEF08008680EF /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				F22BE76D2BF2AB5B006E76D9 /* Preview Content */,
 				F22BE7752BF2ABA0006E76D9 /* Framework.swift */,
 				F22BE7772BF2AE4D006E76D9 /* FrameworkGridView.swift */,
+				F28419F42BFBEF08008680EF /* FrameworkGridViewModel.swift */,
 				F22BE7792BF508DA006E76D9 /* FrameworkDetailView.swift */,
 				F28419F22BF6A746008680EF /* AFButton.swift */,
 			);
@@ -151,6 +154,7 @@
 				F22BE7762BF2ABA0006E76D9 /* Framework.swift in Sources */,
 				F28419F32BF6A746008680EF /* AFButton.swift in Sources */,
 				F22BE7682BF2AB59006E76D9 /* Apple_FrameworksApp.swift in Sources */,
+				F28419F52BFBEF08008680EF /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
